@@ -38,4 +38,5 @@ If you complete both practical sheets before the end of the practical, consider 
 
 - Explore how to use local space coordinates to make the camera follow the tank as it moves (3rd person) and to make the camera rotate with the turret (1st person)
 - Implement an alternative driving control script that allows the user to steer the tank by controlling the speed of each track (i.e. so that when one track travels faster than the other than the tank will turn).
-- Use Maya to extract the tank’s gun from the turret as a separate mesh, so that its elevation can be changed using another control script. Tip: you may wish to use Maya’s separate (Mesh > Separate) when doing this task (see here).
+
+- Use Blender to extract the tank’s gun from the turret as a separate mesh, so that its elevation can be changed using another control script. Tip: you may wish to use Maya’s separate (Mesh > Separate) when doing this task (see here).
